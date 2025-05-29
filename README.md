@@ -31,7 +31,7 @@ Utilizou-se a biblioteca **spaCy**, com o modelo `pt_core_news_sm`, para realiza
 - Entre os adjetivos mais frequentes, destacaram-se termos como:
   - **“bom”**, **“lindo”**, **“ótimo”**, **“confortável”**, **“leve”**
 - A análise indicou uma tendência predominantemente positiva nas avaliações, sugerindo um alto grau de satisfação do consumidor com os produtos analisados.
-- A visualização por nuvem de palavras provou-se eficaz para identificar rapidamente os principais aspectos destacados pelos clientes.
+- A visualização pela nuvem de palavras se mostrou eficaz para identificar rapidamente os principais aspectos destacados pelos clientes.
 
 ## 4. Conclusão
 
