@@ -1,4 +1,4 @@
-# Relatório de Projeto: Mineração de Dados em Avaliações de Produtos com Visualização em Nuvem de Palavras
+# Projeto de Mineração de Dados em Avaliações de Produtos com Visualização em Nuvem de Palavras
 
 ## 1. Introdução
 
